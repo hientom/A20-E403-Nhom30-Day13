@@ -24,4 +24,6 @@
 | `docs/huong-dan-bao-cao-va-chung-minh.md` | Hướng dẫn lệnh + chụp ảnh |
 | `docs/evidence/validate_logs_output.txt` | Output validate 100/100 (nếu có) |
 
-**Còn thiếu cho bằng chứng đầy đủ:** ảnh `docs/evidence/alert-rules-screenshot.png`; link **commit** sau `git push`; xác nhận `[TOTAL_TRACES_COUNT]` trên Langfuse; A/B/D/E tự điền tên + mục 5 tương ứng.
+**Git Evidence (Member C):** https://github.com/tttduong/A20-E403-Nhom30-Day13/commit/80f1a71a058b551aebc43cb8ee17cbb7186ccb27
+
+**Còn thiếu (nhóm / chung):** xác nhận `[TOTAL_TRACES_COUNT]` trên Langfuse; ảnh §3.1 + dashboard §3.2; A/B/D/E điền tên + mục 5; mục 4 incident có số liệu/trace thật.

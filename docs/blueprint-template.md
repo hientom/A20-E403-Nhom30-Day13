@@ -64,10 +64,9 @@
 - [TASKS_COMPLETED]: 
 - [EVIDENCE_LINK]: 
 
-### [MEMBER_C_NAME]
-- **Đã điền — Thành viên C:** Hồ Quang Hiển
+### [Hồ Quang Hiển]
 - [TASKS_COMPLETED]: Hoàn thiện `config/slo.yaml` (SLI + map `/metrics`); 4 rule `config/alert_rules.yaml` + runbook `docs/alerts.md` (thêm mục quality); điền blueprint mục 3.2–3.3 + draft mục 4; thêm `docs/huong-dan-bao-cao-va-chung-minh.md`; cập nhật `docs/grading-evidence.md`.
-- [EVIDENCE_LINK]: https://github.com/tttduong/A20-E403-Nhom30-Day13/blob/main/config/alert_rules.yaml — **sau khi push đủ thay đổi**, nên thay bằng URL commit cụ thể trên repo này (Git Evidence)
+- [EVIDENCE_LINK]: https://github.com/tttduong/A20-E403-Nhom30-Day13/commit/80f1a71a058b551aebc43cb8ee17cbb7186ccb27
 
 ### [MEMBER_D_NAME]
 - [TASKS_COMPLETED]: 
