@@ -124,12 +124,3 @@ Estimated Score: 100/100
 5. Xem dashboard 6 panels — chỉ ra latency P95 và cost
 6. Inject incident: `python scripts/inject_incident.py --scenario rag_slow` → alert kích hoạt
 7. Fix incident: `POST /incidents/rag_slow/disable` → latency trở về bình thường
-
-**Git Evidence (Member E):** (commit sau khi hoàn thành báo cáo này)
-
----
-
-## Còn thiếu (cần bổ sung trước demo)
-- [ ] Chụp trace waterfall screenshot từ Langfuse UI → lưu vào `docs/evidence/trace-waterfall.png`
-- [ ] Xác nhận số traces chính xác trên Langfuse (hiện đặt ≥ 20)
-- [ ] Cập nhật `[EVIDENCE_LINK]` của Member E sau khi commit
