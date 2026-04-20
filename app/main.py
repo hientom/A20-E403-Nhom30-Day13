@@ -6,6 +6,9 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
 from structlog.contextvars import bind_contextvars
 
+from dotenv import load_dotenv
+load_dotenv()
+
 from .agent import LabAgent
 from .incidents import disable, enable, status
 from .logging_config import configure_logging, get_logger
